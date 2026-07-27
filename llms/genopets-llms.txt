@@ -1,0 +1,29 @@
+# Genopets
+
+> Genopets is a free-to-play, move-to-earn NFT game built on the Solana blockchain that gamifies an active lifestyle. Players nurture a digital pet — a Genopet — that evolves from real-world physical activity (step tracking), then battle, craft, stake, and trade in-game NFTs and Habitats. The economy pairs the GENE governance token with the in-game KI utility token earned by moving. Genopets is a consumer mobile game and does not publish a public developer API.
+
+## About
+- [Genopets website](https://www.genopets.me/): Move. Play. Create. — the official product site.
+- [Game](https://www.genopets.me/game): the Genopets game overview.
+- [Tokens](https://www.genopets.me/token): GENE and KI token details.
+- [Team](https://www.genopets.me/team): the studio behind Genopets.
+- [Whitepaper](https://whitepaper.genopets.me/): the Genopets Game Whitepaper — tokens, NFTs, Habitats, crafting, staking.
+- [Articles](https://www.genopets.me/articles): official blog and announcements.
+
+## App
+- [Mainframe (sign in)](https://mainframe.genopets.me): the Genopets web app / player sign-in.
+
+## Policies
+- [Terms of Use](https://www.genopets.me/terms-of-use)
+- [Privacy Policy](https://www.genopets.me/privacy-policy)
+
+## Code
+- [GitHub organization](https://github.com/Genopets): 17 public repositories (mobile-app scaffolding and Solana ecosystem forks; no first-party developer SDK or API spec published).
+
+## Community
+- [Twitter/X](https://twitter.com/genopets)
+- [Discord](https://discord.gg/genopets)
+- [YouTube](https://youtube.com/c/Genopets)
+
+## Notes
+- No public developer API, OpenAPI/Swagger specification, SDK, or `/.well-known/security.txt` was found (probed 2026-07-19). This file was generated from the API Evangelist catalog, not fetched from a provider-published `/llms.txt`.

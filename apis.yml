@@ -1,9 +1,27 @@
 aid: genopets
 name: Genopets
-description: 'Genopets is a company surfaced as a portfolio company of pantera-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Genopets is a free-to-play, move-to-earn NFT game built on the Solana
+  blockchain that gamifies an active lifestyle. Players nurture a digital pet — a
+  Genopet — that evolves from real-world physical activity tracked via step
+  counting, then battle, craft, stake, and trade in-game NFTs and Habitats. The
+  economy pairs the GENE governance token with the in-game KI utility token
+  earned by moving. Genopets is developed by a studio backed by Pantera Capital
+  and operates a consumer mobile/web game rather than a public developer API; no
+  OpenAPI, SDK, or developer portal was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/genopets/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/86613405?v=4
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Crypto
+- Web3
+- Blockchain
+- Solana
+- NFT
+- Gaming
+- Move-to-Earn
+- Play-to-Earn
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.genopets.me/
+- type: SignUp
+  url: https://mainframe.genopets.me
+- type: Whitepaper
+  url: https://whitepaper.genopets.me/
+- type: Blog
+  url: https://www.genopets.me/articles
+- type: Roadmap
+  url: https://www.genopets.me/#roadmap
+- type: TermsOfService
+  url: https://www.genopets.me/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.genopets.me/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/Genopets
+- type: LLMsTxt
+  url: llms/genopets-llms.txt
+- type: DomainSecurity
+  url: security/genopets-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
